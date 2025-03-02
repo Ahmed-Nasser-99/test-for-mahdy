@@ -5,4 +5,6 @@ function dodo() {
   console.log(z);
 }
 
+// ezayak ya mahdy basha
+
 dodo();
